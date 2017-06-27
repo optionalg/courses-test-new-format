@@ -13,10 +13,8 @@ key: 58b94c3a47
 lang: r
 xp: 50
 skills: 1
+video_link: //player.vimeo.com/video/154783078
 ```
-
-`@video_link`
-//player.vimeo.com/video/154783078
 
 ---
 
