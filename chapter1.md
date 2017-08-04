@@ -34,7 +34,7 @@ Have a look at the plot that showed up in the viewer to the right. Which type of
 Even with some code
 ```
 
-Go ahead now and do it yourself.
+Go ahead now and do it yourself...
 
 `@instructions`
 - Adventure
